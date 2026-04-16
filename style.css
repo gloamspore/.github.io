@@ -1,5 +1,4 @@
-  <style>
-    :root {
+     :root {
       --bg: #f7f8fc;
       --surface: #ffffff;
       --text: #1f2937;
@@ -219,4 +218,3 @@
         grid-template-columns: 1fr;
       }
     }
-  </style>
